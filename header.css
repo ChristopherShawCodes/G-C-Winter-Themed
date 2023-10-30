@@ -1,6 +1,5 @@
 .header-fixed {
-	/* background-color:#292c2f; */
-	box-shadow:0 1px 1px #ccc;
+	/* box-shadow:0 1px 1px #ccc; */
 	padding: 20px 40px;
 	height: 120px;
 	color: #ffffff;
@@ -17,8 +16,9 @@
 	margin: 0 auto;
 }
 
+
 .header-limiter p{
-    margin-top: 80px;
+    margin-top: 85px;
     color: white;
     font-weight: 500;
     font-style: italic;
@@ -32,11 +32,12 @@
 	font: normal 48px Cookie, Arial, Helvetica, sans-serif;
 	line-height: 50px;
 	margin: 0;
-    padding-top: 10px;
+    padding-top: 30px;
+	padding-left: 0px;
 }
 
 .header-fixed .header-limiter h1 span {
-	color: #5383d3;
+	color: #174700;
 }
 
 /* The navigation links */

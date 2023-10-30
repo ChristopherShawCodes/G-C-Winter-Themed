@@ -4,14 +4,14 @@
     height: 100%;
     margin: 0;
     position: absolute;
-    border: 1px solid red;
     width: 100%;
     z-index: 1000;
+    /* opacity: 0.6; */
   }
   
   .light_cord {
     fill: none;
-    stroke: white;
+    stroke: #174700;
   }
   
   .light_fixture {
