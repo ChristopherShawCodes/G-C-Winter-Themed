@@ -3,15 +3,16 @@
   #Christmas_Lights {
     height: 100%;
     margin: 0;
+    padding-top: 20px;
     position: absolute;
     width: 100%;
-    z-index: 1000;
+    z-index: -1;
     /* opacity: 0.6; */
   }
   
   .light_cord {
     fill: none;
-    stroke: #174700;
+    stroke: #306517;
   }
   
   .light_fixture {
